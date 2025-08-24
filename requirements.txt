@@ -1,0 +1,10 @@
+# FLN Math Engine - Requirements
+# This project is designed to work with minimal dependencies
+
+# Core Python (3.8+)
+# No external packages required - pure Python implementation
+
+# Optional development dependencies (uncomment if needed)
+# pytest>=6.0.0
+# flake8>=3.8.0
+# black>=21.0.0
