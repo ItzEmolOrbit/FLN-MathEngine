@@ -1,5 +1,5 @@
 """
-PlutoCraft Math Engine - A lightweight, blazing-fast math engine
+FLN Math Engine - A lightweight, blazing-fast math engine
 with automatic formula detection and step-by-step computation.
 """
 
@@ -45,3 +45,4 @@ __all__ = [
     "search_formulas",
     "get_formula_count"
 ]
+
