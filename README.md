@@ -1,8 +1,8 @@
-# 🚀 FLN Math Engine
+# 🚀 FLN-MathEngine
 
 <div align="center">
 
-![FLN Math Engine](https://img.shields.io/badge/FLN-Math%20Engine-blue?style=for-the-badge&logo=python)
+![FLN-MathEngine](https://img.shields.io/badge/FLN-MathEngine-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 **What Makes FLN Math Engine Revolutionary?**
+## 🌟 **What Makes FLN-MathEngine Revolutionary?**
 
 ### ✨ **Self-Created Innovation**
 - **Built from scratch** - No existing math library dependencies
@@ -29,6 +29,7 @@
 - **Intelligent formula detection** - 224+ mathematical patterns automatically recognized
 - **AI-ready architecture** - Built specifically for machine learning integration
 - **Lightning-fast performance** - Optimized for real-time applications
+- **GitHub Repository**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ---
 
@@ -51,6 +52,7 @@
 - **Error Prevention**: Comprehensive error handling with explanations
 - **Formula Database**: 224+ mathematical formulas with explanations
 - **Interactive Learning**: Real-time computation and feedback
+- **Source Code**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ---
 
@@ -94,8 +96,8 @@ graph TB
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fln-math-engine.git
-cd fln-math-engine
+git clone https://github.com/ItzEmolOrbit/FLN-MathEngine.git
+cd FLN-MathEngine
 
 # Run quick examples
 python quick_start.py
@@ -147,6 +149,7 @@ print(result.final_result)  # Output: x^2/2 + C
 - **FLN Math Engine**: ~2MB (pure Python)
 - **SymPy**: ~50MB (with dependencies)
 - **Mathematica**: ~2GB (full installation)
+- **Repository**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ---
 
@@ -230,6 +233,7 @@ print(result.final_result)  # 20.0
 - **Pattern Recognition**: Automatic formula detection
 - **Step-by-Step Analysis**: Perfect for AI tutoring
 - **Extensible Architecture**: Easy to add new AI features
+- **GitHub**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ### **AI Use Cases**
 ```python
@@ -267,6 +271,7 @@ for step in tutorial:
 - **Homework Help**: Instant step-by-step solutions
 - **Practice Problems**: Infinite mathematical exercises
 - **Progress Tracking**: Monitor student understanding
+- **Open Source**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ---
 
@@ -336,10 +341,10 @@ for step in tutorial:
 ### **Quick Installation**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/fln-math-engine.git
+git clone https://github.com/ItzEmolOrbit/FLN-MathEngine.git
 
 # Navigate to directory
-cd fln-math-engine
+cd FLN-MathEngine
 
 # Run examples
 python quick_start.py
@@ -381,6 +386,8 @@ python -m flake8 FLN/
 🚀 Total Formulas: 224+
 ```
 
+**View All Formulas**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
+
 ---
 
 ## 🤝 **Contributing**
@@ -393,7 +400,7 @@ python -m flake8 FLN/
 - **Testing**: Help ensure quality
 
 ### **Development Guidelines**
-1. Fork the repository
+1. Fork the repository: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 2. Create a feature branch
 3. Make your changes
 4. Add tests for new features
@@ -419,6 +426,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Mathematics Community**: For the mathematical formulas and rules
 - **Open Source Contributors**: For inspiration and best practices
 - **AI Research Community**: For advancing human-AI collaboration
+- **Project Repository**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ---
 
@@ -429,25 +437,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **AI collaboration**: Demonstrates the future of development
 - **Unique features**: Capabilities that don't exist elsewhere
 - **Open source**: Free for everyone to use and improve
+- **GitHub**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ### **Technical Excellence**
 - **Blazing fast**: Optimized for real-time applications
 - **Lightweight**: Minimal resource requirements
 - **Extensible**: Easy to add new capabilities
 - **Production ready**: Comprehensive testing and validation
+- **Code Quality**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ### **Future Vision**
 - **AI integration**: Built for the machine learning era
 - **Global education**: Making math accessible to everyone
 - **Innovation**: Pushing the boundaries of mathematical computation
 - **Collaboration**: Human-AI partnership in software development
+- **Join Us**: [https://github.com/ItzEmolOrbit/FLN-MathEngine](https://github.com/ItzEmolOrbit/FLN-MathEngine)
 
 ---
 
 <div align="center">
 
-**🚀 FLN Math Engine - Revolutionizing Mathematical Computation Through Human-AI Collaboration**
+**🚀 FLN-MathEngine - Revolutionizing Mathematical Computation Through Human-AI Collaboration**
 
-[⭐ Star this repo](https://github.com/yourusername/fln-math-engine) • [🐛 Report issues](https://github.com/yourusername/fln-math-engine/issues) • [💬 Discuss](https://github.com/yourusername/fln-math-engine/discussions)
+[⭐ Star this repo](https://github.com/ItzEmolOrbit/FLN-MathEngine) • [🐛 Report issues](https://github.com/ItzEmolOrbit/FLN-MathEngine/issues) • [💬 Discuss](https://github.com/ItzEmolOrbit/FLN-MathEngine/discussions)
 
 </div>
